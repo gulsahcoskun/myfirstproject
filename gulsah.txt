@@ -2,4 +2,9 @@ text gulsah
 llgdf
 fkmflllllllllllllllll
 ÇSGNFSÇF
-[C[C[C[C[C[C[C
+ghfhjgjhjkkvhj
+edited with vi editor
+:w
+
+:q
+
